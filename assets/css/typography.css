@@ -1,0 +1,26 @@
+@font-face {
+  font-family: font awesome;
+  src: url(../fonts/Font\ Awesome\ 5\ Pro-Solid-900.otf);
+}
+
+h1 {
+  margin-bottom: 20px;
+}
+
+h5 {
+  font-family: font awesome;
+}
+.check {
+  color: blue;
+}
+.xmark {
+  color: #ff0000;
+}
+.circle {
+  color: #17bc17;
+}
+p {
+  font-family: Noto Sans JP;
+  /* font-family: fasthand; */
+  font-size: 2em;
+}
